@@ -6,6 +6,10 @@
 
 ###
 
+
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="6" />
@@ -63,11 +67,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Kevaughn-B/Kevaughn-B/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kevaughn-b&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 ###
