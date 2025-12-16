@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 - I'm currently working on...<br>🌱 - I recently built a program...<br>👯 - I'm looking to collaborate on interesting and innovative ideas! Contact me at k.dorianbenjamin@gmail.com</p>
+<p align="left">🔭 - I'm currently working on a Smart Budgeting App<br>🌱 - I recently built a program that provided help for farmers<br>👯 - I'm looking to collaborate on interesting and innovative ideas! Contact me at k.dorianbenjamin@gmail.com</p>
 
 ###
 
@@ -67,7 +67,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kevaughn-B&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=kevaughn-b&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
