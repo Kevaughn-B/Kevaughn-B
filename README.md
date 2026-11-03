@@ -2,14 +2,7 @@
 
 ###
 
-<p align="left">🔭 - I'm currently working on a Smart Budgeting App<br>🌱 - I recently built a program that provided help for farmers<br>👯 - I'm looking to collaborate on interesting and innovative ideas! Contact me at k.dorianbenjamin@gmail.com</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevaughn-B&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kevaughn-B&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left">🔭 - I'm currently working on a Smart Budgeting App<br>🌱 - I recently built a program that provided help for farmers<br>👯 - I'm looking to collaborate on interesting and innovative ideas!<br>Contact me at k.dorianbenjamin@gmail.com</p>
 
 ###
 
@@ -48,10 +41,6 @@
 ###
 
 <p align="left">Connect with me:</p>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
 ###
 
